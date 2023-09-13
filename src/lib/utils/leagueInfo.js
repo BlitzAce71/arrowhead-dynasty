@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>.                     Welcome to the Arrowhead Dynasty league!</p>
+  <p><center>Welcome to the Arrowhead Dynasty league!</center></p>
 `;
 
 /*   STEP 3   */
